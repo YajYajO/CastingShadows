@@ -2,7 +2,7 @@
 This is a virtualized version of my current favorite board game, "Casting Shadows" by Unstable Games.
 As of now the game is incomplete. The following still needs to be implemented:
 
--startTurn() in CastingShadows.java stil needs to be completed:
+-startTurn() in CastingShadows.java stil needs to be completed:\n
     turn.equals("Travel")- not started
     turn.equals("Cast")- not started
     turn.equals("Reroll") - in progress
