@@ -1,4 +1,6 @@
 # CastingShadows
+Jon-Joel Ocfemia
+
 This is a virtualized version of my current favorite board game, "Casting Shadows" by Unstable Games.
 As of now the game is incomplete. The following still needs to be implemented:
 
